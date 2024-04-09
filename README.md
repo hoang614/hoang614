@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Hoang</h1>
 <p align="center">
-  <h3 align="center">A passionate Data Science </h3>
+  <h3 align="center">A passionate DS and ML </h3>
 </p>
 
 ## Socials
