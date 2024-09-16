@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hoang</h1>
-<p align="center">
-  <h3 align="center"> DS and ML </h3>
-</p>
+
 
 ## Socials
 <p align="left">
