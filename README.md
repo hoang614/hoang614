@@ -4,10 +4,10 @@
 
 ## Socials
 <p align="left">
-  <a href="https://www.facebook.com/profile.php?id=100039972101420" alt="Facebook">
+  <a href="https://www.facebook.com" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://www.instagram.com/nhoang61" alt="Instagram">
+  <a href="https://www.instagram.com" alt="Instagram">
     <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
   </a>
   
